@@ -7,12 +7,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Overview:</h3>
+<h3 align="left">Overview</h3>
 If you’ve found your way here, chances are you’ve come from my resume or LinkedIn profile and are interested in reviewing some of my code. This page will discuss my personal projects in reverse chronological order. Each section starts with a TLDR, so you can skim through it if you prefer. The code in the GitHub repositories is just samples from each project offered to showcase my skills as a self-taught developer. It has been altered to remove identifiable characteristics about what websites I’m scraping because I still have the code running and don’t want to invite too much competition. Thanks for stopping by, and please reach out if you have questions! 
 
 <h3 align="left">Kaggle Vesuvius Competition</h3>
-<h3 align="left">First project using: </h3>Pytorch, Convolutional Neural Networks, GPUs
-<h3 align="left">TLDR: </h3>In a competition to build an AI algorithm capable of detecting the presence of ink on fragments of papyrus charred by the eruption of Mt. Vesuvius, I placed in the top 46% of entrants.
+<p align="left"><b>First project using: </b>Pytorch, Convolutional Neural Networks, GPUs</p>
+<p align="left"><b>TLDR: </b>In a competition to build an AI algorithm capable of detecting the presence of ink on fragments of papyrus charred by the eruption of Mt. Vesuvius, I placed in the top 46% of entrants.</p>
 
 The most recent project I worked on was a competition on kaggle.com, a well-known website for teaching machine learning and data science. They occasionally host competitions with prize money (in this case, $100k of prizes to those in the top ten), attracting large numbers of data scientists worldwide. The objective of the Vesuvius competition was to detect ink on fragments of papyrus from library scrolls that were all but destroyed in a volcanic eruption centuries ago. 
 
@@ -50,9 +50,9 @@ Notebook 3: **https://www.kaggle.com/code/jeffborack/vesuvius-6-1-submit**
 This is the code that was submitted to the competition. It takes an input file, works through three prediction layers, and assembles a run-line-encoding output file.
 
 <h3 align="left">Sportsbetting AI</h3>
-<h3 align="left">First project using: </h3>SQL, LightGBM, Numpy
-<h3 align="left">Repository: </h3>
-<h3 align="left">TLDR: </h3>I lost $3 betting on sports with an AI tool I built, but I hope to do better next season!
+<p align="left"><strong>First project using: </strong>SQL, LightGBM, Numpy</p>
+<p align="left"><strong>Repository: </strong></p>
+<p align="left"><strong>TLDR: </strong>I lost $3 betting on sports with an AI tool I built, but I hope to do better next season!</p>
 
 My second big Python project was a TensorFlow/LightGBM AI model to bet on fantasy basketball. I’m not a big sports fan, and I’ve probably watched 3 NBA games my entire life. I don’t even know the positions. I simply wanted to scrape data, plug it into a model, and see if it could win bets.
 
@@ -77,9 +77,9 @@ Heading into the playoffs, my account was up about 30%. That’s only $30, but a
 Next year I will try rerunning the model to see how it performs. There are a few other incremental improvements to make before then, and I’ll be prepared to call it quits a few weeks before playoffs.
 
 <h3 align="left">Collectibles Trading Project</h3>
-<h3 align="left">First project using: </h3>Python, Selenium, BeautifulSoup, TensorFlow, Pandas
-<h3 align="left">Repository: </h3> **https://github.com/jab2727/CollectibleTrading**
-<h3 align="left">TLDR: </h3>I built an app that scrapes websites and uses Tensorflow to automatically buy and sell mispriced items. 
+<p align="left"><strong>First project using: </strong>Python, Selenium, BeautifulSoup, TensorFlow, Pandas</p>
+<p align="left"><strong>Repository: </strong>**https://github.com/jab2727/CollectibleTrading**</p>
+<p align="left"><strong>TLDR: </strong>I built an app that scrapes websites and uses Tensorflow to automatically buy and sell mispriced items.</p>
 
 My first actual coding project was a tool to buy and sell collectibles online. The repo contains two files. The first is Price_Scraper, which scans through pages of products trying to identify items to purchase. When I started the project, I tried using Beautiful Soup for web scraping because I had some familiarity with it. However, it didn’t work. There was some data it just couldn’t detect. I got to the point where I considered quitting, but my curiosity about what I was doing wrong wouldn’t let me give up. As a last-ditch effort, I hired a developer on Fiverr to help me get the code working. It took him about 10 minutes to install Selenium, and he was able to scrape all the data I couldn’t get with Beautiful Soup. The critical difference between Selenium and Beautiful Soup is that Selenium handles dynamic content that loads over time.
 
@@ -89,7 +89,7 @@ The code where I built the TensorFlow model isn’t included, but that was proba
 
 The Daily_Routine is the main file in this project. It runs continuously, spending about 8 hours daily updating prices on items I’m trying to buy or sell and scanning the list of new items with attractive price charts to bid on. After working through its loop 5 times, it takes a break until the following morning. I only relaunch it when I have Chrome updates to install. The critical point of showcasing this code is that there was some decent complexity to it. It’s a little over 700 lines, with numerous defined functions being called. Given that it’s my first actual coding project, in hindsight, it’s a bit disorganized, and I did a few things incorrectly/inefficiently, but it works, and I’m proud of it.
 
-<h3 align="left">Coding Background Prior to Summer 2022:</h3>
+<h3 align="left">Coding Background Prior to Summer 2022</h3>
 I first tried learning to code in 1999. Inspired by The Matrix, I went to Barnes & Noble to buy a book on coding. I left with a book on Visual Basic because the name indicated it would be both visual and basic. Fantastic! I learned a lot about logic loops and syntax, and it felt great to get my computer to do things, but I realized that Visual Basic was probably not the language of choice for Neo and Trinity. It also couldn’t make fun computer games. It was designed for building incredibly boring business apps. After finishing the book, I didn’t work on any projects.
 
 In college, I majored in bioengineering. C++ was a prereq for everyone in engineering, and my final project was a respectable calculator. The bioengineering program was way ahead of its time. We studied neural networks and used a language called Matlab to try to build some functional prototypes. In 2004, neural networks weren’t yet producing impressive results, but the concept was fascinating, and I devoured books on the subject. Synaptic Self, The Singularity Is Near, Gödel Escher Bach, and several other books by Douglas Hofstadter and Greg Egan. I kept a loose watch on the space as I graduated college and started my career in finance. 
