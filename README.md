@@ -10,9 +10,9 @@ Languages and Tools:
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="20" height="20"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a>
-Connect with me: 
-  <a href="https://linkedin.com/in/borack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Profile" height="20" width="20" /></a>
-  <a href="https://www.kaggle.com/jeffborack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="20" width="20" /></a>
+          Connect with me: 
+  <a href="https://linkedin.com/in/borack" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Profile" height="20" width="20" /></a>
+  <a href="https://www.kaggle.com/jeffborack" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="20" width="20" /></a>
 </h3>
 
 <h3 align="left">Kaggle Vesuvius Competition</h3>
@@ -100,5 +100,3 @@ I first tried learning to code in 1999. Inspired by The Matrix, I went to Barnes
 In college, I majored in bioengineering. C++ was a prereq for everyone in engineering, and my final project was a respectable calculator. The bioengineering program was way ahead of its time. We studied neural networks and used a language called Matlab to try to build some functional prototypes. In 2004, neural networks weren’t yet producing impressive results, but the concept was fascinating, and I devoured books on the subject. Synaptic Self, The Singularity Is Near, Gödel Escher Bach, and several other books by Douglas Hofstadter and Greg Egan. I kept a loose watch on the space as I graduated college and started my career in finance. 
 
 In 2013 I took another shot at learning to code and completed a Codecademy class on Python. From that, I built a simple web scraping tool. If I was smarter, I would have started exploring neural networking again, as IBM Watson was making headlines, but instead, I decided to launch a coffee startup. It wasn’t until last summer that I turned my undivided attention back to learning to code. Perhaps my most significant source of motivation was my 8-year-old son. I had been stressing the importance of learning to code from an early age, and he had worked his way through some Scratch projects, CodeCombat, and code.org. I could tell from his questions that he would soon need more guidance than I could offer without knowing how to code myself. I also felt like a hypocrite telling my kid how important it is to code without knowing how to code myself. With the kid at summer camp, I began working on the collectibles trading app.
-
-- 📫 How to reach me **jborack@gmail.com**
