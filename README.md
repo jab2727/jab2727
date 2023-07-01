@@ -2,7 +2,6 @@
 
 <h3 align="left">Overview</h3>
 If you’ve found your way here, chances are you’ve come from my resume or LinkedIn profile and are interested in reviewing some of my code. This page will discuss my personal projects in reverse chronological order. Each section starts with a TLDR, so you can skim through it if you prefer. The code in the GitHub repositories is just samples from each project offered to showcase my skills as a self-taught developer. It has been altered to remove identifiable characteristics about what websites I’m scraping because I still have the code running and don’t want to invite too much competition. Thanks for stopping by, and please reach out if you have questions! 
-
 <h3 align="center">
 Languages and Tools: 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/> </a> 
@@ -11,7 +10,6 @@ Languages and Tools:
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="20" height="20"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a>
-
 Connect with me: 
   <a href="https://linkedin.com/in/borack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Profile" height="20" width="20" /></a>
   <a href="https://www.kaggle.com/jeffborack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="20" width="20" /></a>
@@ -61,7 +59,7 @@ This is the code that was submitted to the competition. It takes an input file, 
 <p align="left"><strong>Repository: </strong></p>
 <p align="left"><strong>TLDR: </strong>I lost $3 betting on sports with an AI tool I built, but I hope to do better next season!</p>
 
-My second big Python project was a TensorFlow/LightGBM AI model to bet on fantasy basketball. I’m not a big sports fan, and I’ve probably watched 3 NBA games my entire life. I don’t even know the positions. I simply wanted to scrape data, plug it into a model, and see if it could win bets.
+<img align="left" src="https://github.com/jab2727/jab2727/blob/main/BasketballAnalysis.png" alt="Midjourney's interpretation of: a basketball team being transformed into digital data analysis" style="float:left;width:400px;height:400px;">My second big Python project was a TensorFlow/LightGBM AI model to bet on fantasy basketball. I’m not a big sports fan, and I’ve probably watched 3 NBA games my entire life. I don’t even know the positions. I simply wanted to scrape data, plug it into a model, and see if it could win bets.
 
 I’ve always been interested in sports betting. In the early 2000’s I was able to make some money betting on UFC fights. The UFC was popular enough that sportsbooks had lines but small enough that occasionally unknown fighters walked into championship fights. Crazy. When that happened, I would do the legwork of finding out where they train, calling the gym or the trainer, and asking questions about the fighter’s background and experience. Once, I managed to get pictures of a fighter nobody else had seen. It was a fun time, but it didn’t last long.
 
